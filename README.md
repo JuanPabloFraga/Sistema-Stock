@@ -20,7 +20,7 @@ Tecnologías utilizadas:
 • HTML, CSS, JS
 • Git / GitHub
 Links asociados:
-• Repositorio: https://github.com/kikii10/tpGrupo4.git (Branch main)
+• Repositorio: (https://github.com/JuanPabloFraga/Sistema-Stock.git) (Branch main)
 • Video explicativo:
 https://drive.google.com/file/d/1oyPd3GEx8iQ6zL1VysQl6kedbEsHKb-f/view
 • Inserts para la base de datos:
