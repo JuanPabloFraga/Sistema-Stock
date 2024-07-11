@@ -25,3 +25,35 @@ Links asociados:
 https://drive.google.com/file/d/1oyPd3GEx8iQ6zL1VysQl6kedbEsHKb-f/view
 • Inserts para la base de datos:
 https://drive.google.com/file/d/1scCiRpvyCNYsMql32pDzjxvvmuMwMvux/view
+Cómo levantar el proyecto:
+1. Clonar el repositorio alojado en GitHub en la branch main
+https://github.com/kikii10/tpGrupo4.git
+2. Crear una base de datos llamada tpgrupo4
+3. Configurar las siguientes variables de entorno para el application.yml
+- DB_URL
+Ejemplo: jdbc:mysql://localhost:3306/tpGrupo4?useSSL=false&serverTimezone=UTC
+- PASSWORD
+- USERNAME
+4. Iniciar el proyecto, esperar a que compile y se carguen las tablas en la base de
+datos.
+(el proyecto se puede ver en el localhost 8080)
+5. Una vez cargada, hacer los inserts del siguiente script en la base de datos:
+https://drive.google.com/file/d/1scCiRpvyCNYsMql32pDzjxvvmuMwMvux/view
+6. Ya puede probar todas las funcionalidades del proyecto.
+Nombres de los usuarios para el login:
+• Administrador
+- Username: admin
+- Password: admin
+• Usuario / cliente
+- Username: user
+- Password: user
+Le dejamos también los datos de un producto para agregar, aunque puede poner los que
+quiera.
+- Nombre: Zion 3
+- Código:548
+- Precio:259999
+- Stock inicial:30
+- Stock mínimo: 10
+- Descripción: Zapatillas Jordan Unisex
+- Link imagen: https://nikearprod.vtexassets.com/arquivos/ids/870477-1000-1000
+(el link de la imagen es opcional para facilitar la carga de productos)
