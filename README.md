@@ -26,8 +26,7 @@ https://drive.google.com/file/d/1oyPd3GEx8iQ6zL1VysQl6kedbEsHKb-f/view
 • Inserts para la base de datos:
 https://drive.google.com/file/d/1scCiRpvyCNYsMql32pDzjxvvmuMwMvux/view
 Cómo levantar el proyecto:
-1. Clonar el repositorio alojado en GitHub en la branch main
-https://github.com/kikii10/tpGrupo4.git
+1. Clonar el repositorio alojado en Git Hub https://github.com/JuanPabloFraga/Sistema-Stock
 2. Crear una base de datos llamada tpgrupo4
 3. Configurar las siguientes variables de entorno para el application.yml
 - DB_URL
